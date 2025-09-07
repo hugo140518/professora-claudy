@@ -1,0 +1,21 @@
+
+h1{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color:yellowgreen;
+}
+li{
+    color: rgb(225, 65, 65);
+    text-align: center;
+    list-style: none;
+    
+    
+    
+    
+}
+a:hover{
+    color: green;
+}
+
+
